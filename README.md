@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elme7ratt
+- 👋 Hi, I’m Mohamed
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning back end
 - 💞️ I’m looking to collaborate on ...
